@@ -1,2 +1,2 @@
-TOKEN="8941300475:AAFJ30EJ0Og22n1nvSbZ1pystuZ__MuN5M0"
+TOKEN="token"
 DB_NAME="radar.db"
