@@ -1,2 +1,2 @@
 # Radar_bot
-Tezlokni aniqlaydigan telegram bot
+Tezlikni aniqlaydigan telegram bot
